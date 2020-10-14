@@ -1,3 +1,5 @@
 # my-second-repo
-adding my career goal
-to be a leading bioinformatician in the field of biomedical research
+## installing ubuntu os
+1. go to the ubuntu desktop website
+2. download the latest version
+3. install it on your computer
